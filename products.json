@@ -1,0 +1,20 @@
+{
+  "title": "Shoes",
+  "description": "Pair of shoes",
+  "price": 24
+},
+{
+  "title": "Hat",
+  "description": "Top hat",
+  "price": 14
+},
+{
+  "title": "Socks",
+  "description": "Dirty socks",
+  "price": 800
+},
+{
+  "title": "Llama",
+  "description": "Very loud llama",
+  "price": 12
+}
