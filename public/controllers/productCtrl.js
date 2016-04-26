@@ -4,7 +4,7 @@ angular.module('ecommerce')
   // $scope.products = products;
   $scope.getProducts = function() {
     console.log('uhhhh');
-    productService.bacon().then(function(response) {
+    productService.getProducts().then(function(response) {
       console.log(response);
       $scope.products = response;
     });
