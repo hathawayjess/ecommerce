@@ -3,7 +3,7 @@ angular.module('ecommerce')
 
 
 
-    this.bacon = function() {
+    this.getProducts = function() {
       var deferred = $q.defer();
       console.log('helloooo!');
      $http.get('/products').then(function( response ) {
